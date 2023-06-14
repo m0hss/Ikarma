@@ -1,0 +1,151 @@
+{
+	"QMainWindow":[
+		{
+			"tittle":"Ikarma",
+			"icon":":/icons/icons/ikarma.png",
+			"frameless": true,
+			"transluscentBg": true,
+			"sizeGrip": "sizeGrip",
+			"navigation":[
+				{
+					"minimize":"minimizeWindow",
+					"close": "closeWindow",
+					"restore":[
+						{	
+							"buttonName": "restoreWindow"
+						}
+					],
+					"moveWindow": "header",
+					"tittleBar": "header"
+				}
+			]
+		}
+	],
+	"QStackedWidget":[
+		{
+			"name":"mainPages",
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+							"followingBtn": "followingfPage",
+							"followingBtn1": "followingfPage",
+							"liveBtn": "livePage",
+							"liveBtn1": "livePage",
+							"msgBtn": "loginPage"
+										
+						}
+					]
+				}
+			],
+			"transitionAnimation":[
+				{
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			]
+			
+			
+			
+		},
+		{
+			"name":"editPostWidget",
+			"transitionAnimation":[
+				{
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			]
+			
+			
+			
+		},
+	
+		{
+			"name":"acceuilSection",
+			"transitionAnimation":[
+				{
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "vertical",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			]
+			
+			
+			
+		}
+	
+	],
+	"QCustomSlideMenu": [
+		{
+		"name": "profilEdit",
+		"floatPosition": [{
+			"relativeTo": "Frame_77",
+			"position": "top-center",
+			"shadow":[{
+				"color": "#2C2828",
+				"blurRadius": 20,
+				"xOffset": 0,
+				"yOffset": 0
+			}]
+		}],
+		"defaultSize": [{
+			"width": 108,
+			"height": 0
+		}],
+		"collapsedSize": [{
+			"width": 108,
+			"height": 0
+		}],
+		"expandedSize": [{
+			"width": 108,
+			"height": 80
+		}],
+		"toggleButton": [{
+			"buttonName": "profilActionBtn"
+			}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 100,
+			"animationEasingCurve": "OutBack",
+			"direction": "horizontal"
+		
+		}]
+		}
+	],
+
+	"QPushButtonGroup": [
+		{
+			"Buttons": [
+				"homeBtn1",
+				"followingBtn1",
+				"liveBtn1",
+				"uploadBtn",
+				"msgBtn"
+				
+			],
+			"Style":[
+				{
+				"Active": "color: rgba(188, 188, 23, 1.0);",
+				"NotActive": ""
+				}
+			]
+		}
+	]
+}

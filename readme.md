@@ -1,0 +1,1 @@
+# IKarma is a modern social media desktop application for sharing instant karma moments captured in real life.
