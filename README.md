@@ -29,10 +29,10 @@ $ pip install -r requirements.txt
 To run this project, you will need to add the following environment variables to your .env file:
 
 
+- `URL` =  [AWS](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com) [heroku](https://ikapi-94b1570fbebb.herokuapp.com)
   
-- `URL` =  [ikarmAPI (AWS)](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com)
 
-Keyring service_name and username
+Keyring config:
 
 - `SERVICE_NAME`
 
