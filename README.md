@@ -71,17 +71,17 @@ $  pyinstaller main.py
 
 ## Documentation
 
-[IkarmAPI Doc](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com/redoc)
+[IkarmAPI/redoc](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com/redoc)
 
-[QT for Python](https://doc.qt.io/qtforpython-6/)
+[PyQT5-doc](https://doc.qt.io/qtforpython-5/contents.html)
 
 [Qtdesigner-manual](https://doc.qt.io/qtforpython-6/overviews/qtdesigner-manual.html)
 
-[Pyside2](https://www.pythonguis.com/pyside2-tutorial/)
+[Pyside2-doc](https://www.pythonguis.com/pyside2-tutorial/)
 
 [QT-PyQt-PySide-Custom-Widgets](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/)
 
-[PyInstaller Manual](https://pyinstaller.org/en/stable/)
+[PyInstaller-Manual](https://pyinstaller.org/en/stable/)
 
 
 
