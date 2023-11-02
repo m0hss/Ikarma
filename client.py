@@ -13,8 +13,8 @@ dotenv.load_dotenv()
 class APIClient:
     def __init__(self):
         self.URL = os.getenv('URL')
-        self.SERVICE_NAME = "ikarma"
-        self.USERNAME = "access-token"
+        self.SERVICE_NAME = os.getenv('SERVICE_NAME')
+        self.USERNAME = os.getenv('USERNAME')
         
     ##########################################################################
     ## Get Access Token "Authorization": "Bearer" Format

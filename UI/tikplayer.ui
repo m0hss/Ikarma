@@ -148,7 +148,7 @@
         </property>
         <property name="icon">
          <iconset resource="../resources.qrc">
-          <normaloff>:/icons/icons/feather/play.svg</normaloff>:/icons/icons/feather/play.svg</iconset>
+          <normaloff>:/assets/icons/assets/icons/feather/play.svg</normaloff>:/assets/icons/assets/icons/feather/play.svg</iconset>
         </property>
         <property name="iconSize">
          <size>
@@ -282,7 +282,7 @@ margin-right: 1.5px;
         </property>
         <property name="icon">
          <iconset resource="../resources.qrc">
-          <normaloff>:/icons/icons/feather/volume-x.svg</normaloff>:/icons/icons/feather/volume-x.svg</iconset>
+          <normaloff>:/assets/icons/assets/icons/feather/volume-x.svg</normaloff>:/assets/icons/assets/icons/feather/volume-x.svg</iconset>
         </property>
         <property name="iconSize">
          <size>

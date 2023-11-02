@@ -26,7 +26,7 @@
    <string>MainWindow</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="../resources.qrc">
+   <iconset>
     <normaloff>:/icons/icons/ikarma.png</normaloff>:/icons/icons/ikarma.png</iconset>
   </property>
   <property name="styleSheet">
@@ -316,7 +316,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/ikarma.png</normaloff>:/icons/icons/ikarma.png</iconset>
+                 <normaloff>:/assets/icons/assets/icons/ikarma.png</normaloff>:/assets/icons/assets/icons/ikarma.png</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -367,7 +367,7 @@ QProgressBar::chunk
                   </property>
                   <property name="icon">
                    <iconset resource="../resources.qrc">
-                    <normaloff>:/icons/icons/feather/search.svg</normaloff>:/icons/icons/feather/search.svg</iconset>
+                    <normaloff>:/assets/icons/assets/icons/feather/search.svg</normaloff>:/assets/icons/assets/icons/feather/search.svg</iconset>
                   </property>
                   <property name="iconSize">
                    <size>
@@ -414,7 +414,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/upload-cloud.svg</normaloff>:/icons/icons/feather/upload-cloud.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/upload-cloud.svg</normaloff>:/assets/icons/assets/icons/feather/upload-cloud.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -446,7 +446,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/bell.svg</normaloff>:/icons/icons/feather/bell.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/bell.svg</normaloff>:/assets/icons/assets/icons/feather/bell.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -487,7 +487,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/message-square.svg</normaloff>:/icons/icons/feather/message-square.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/message-circle.svg</normaloff>:/assets/icons/assets/icons/feather/message-circle.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -522,7 +522,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/log-in.svg</normaloff>:/icons/icons/feather/log-in.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/log-in.svg</normaloff>:/assets/icons/assets/icons/feather/log-in.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -580,7 +580,7 @@ QProgressBar::chunk
                 <string/>
                </property>
                <property name="icon">
-                <iconset resource="../resources.qrc">
+                <iconset>
                  <normaloff>:/icons/icons/feather/moon.svg</normaloff>:/icons/icons/feather/moon.svg</iconset>
                </property>
               </widget>
@@ -592,7 +592,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/minus-circle.svg</normaloff>:/icons/icons/feather/minus-circle.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/minus-circle.svg</normaloff>:/assets/icons/assets/icons/feather/minus-circle.svg</iconset>
                </property>
               </widget>
              </item>
@@ -603,7 +603,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/stop-circle.svg</normaloff>:/icons/icons/feather/stop-circle.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/stop-circle.svg</normaloff>:/assets/icons/assets/icons/feather/stop-circle.svg</iconset>
                </property>
               </widget>
              </item>
@@ -614,7 +614,7 @@ QProgressBar::chunk
                </property>
                <property name="icon">
                 <iconset resource="../resources.qrc">
-                 <normaloff>:/icons/icons/feather/x-circle.svg</normaloff>:/icons/icons/feather/x-circle.svg</iconset>
+                 <normaloff>:/assets/icons/assets/icons/feather/x-circle.svg</normaloff>:/assets/icons/assets/icons/feather/x-circle.svg</iconset>
                </property>
               </widget>
              </item>
@@ -916,7 +916,7 @@ QProgressBar::chunk
                    </property>
                    <property name="icon">
                     <iconset resource="../resources.qrc">
-                     <normaloff>:/icons/icons/feather/home.svg</normaloff>:/icons/icons/feather/home.svg</iconset>
+                     <normaloff>:/assets/icons/assets/icons/feather/home.svg</normaloff>:/assets/icons/assets/icons/feather/home.svg</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -957,7 +957,7 @@ QProgressBar::chunk
                    </property>
                    <property name="icon">
                     <iconset resource="../resources.qrc">
-                     <normaloff>:/icons/icons/feather/video.svg</normaloff>:/icons/icons/feather/video.svg</iconset>
+                     <normaloff>:/assets/icons/assets/icons/feather/video.svg</normaloff>:/assets/icons/assets/icons/feather/video.svg</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -989,7 +989,7 @@ QProgressBar::chunk
                    </property>
                    <property name="icon">
                     <iconset resource="../resources.qrc">
-                     <normaloff>:/icons/icons/feather/users.svg</normaloff>:/icons/icons/feather/users.svg</iconset>
+                     <normaloff>:/assets/icons/assets/icons/feather/users.svg</normaloff>:/assets/icons/assets/icons/feather/users.svg</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -1093,7 +1093,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/profile-pic.png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/profile-pic (5).png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1115,7 +1115,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/profile-pic (1).png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/circled3.png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1144,7 +1144,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/profile-pic (5).png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/profile-pic (6).png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1240,7 +1240,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/profile-pic (2).png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/profile-pic (6).png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1277,7 +1277,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/profile-pic (10).png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/profile-pic.png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1299,7 +1299,7 @@ QProgressBar::chunk
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="../resources.qrc">:/images/images/profile/circled2.png</pixmap>
+                       <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/profile-pic (1).png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
@@ -1611,7 +1611,7 @@ QProgressBar::chunk
              <string notr="true"/>
             </property>
             <property name="currentIndex">
-             <number>7</number>
+             <number>8</number>
             </property>
             <widget class="QWidget" name="loginPage">
              <layout class="QHBoxLayout" name="horizontalLayout_14">
@@ -1700,7 +1700,7 @@ background-color: transparent;
                   </rect>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">border-image: url(:/images/images/app/background.png);
+                  <string notr="true">border-image: url(:assets/images/assets/images/app/background.png);
 border-radius:20px;</string>
                  </property>
                  <property name="text">
@@ -1820,7 +1820,7 @@ border-radius:15px;</string>
                         <string/>
                        </property>
                        <property name="pixmap">
-                        <pixmap resource="../resources.qrc">:/icons/icons/feather/user-circle.svg</pixmap>
+                        <pixmap resource="../resources.qrc">:/assets/icons/assets/icons/feather/user-circle.svg</pixmap>
                        </property>
                        <property name="scaledContents">
                         <bool>true</bool>
@@ -2150,7 +2150,7 @@ background-color: transparent;
                   </rect>
                  </property>
                  <property name="styleSheet">
-                  <string notr="true">border-image: url(:/images/images/app/background.png);
+                  <string notr="true">border-image: url(:assets/images/assets/images/app/background.png);
 border-bottom-right-radius: 50px;</string>
                  </property>
                  <property name="text">
@@ -2238,7 +2238,7 @@ border-bottom-right-radius: 50px;</string>
                      <string/>
                     </property>
                     <property name="pixmap">
-                     <pixmap resource="../resources.qrc">:/icons/icons/feather/user-plus.svg</pixmap>
+                     <pixmap resource="../resources.qrc">:/assets/icons/assets/icons/feather/user-plus.svg</pixmap>
                     </property>
                     <property name="scaledContents">
                      <bool>true</bool>
@@ -2890,7 +2890,7 @@ border-bottom-right-radius: 50px;</string>
                               <string/>
                              </property>
                              <property name="pixmap">
-                              <pixmap resource="../resources.qrc">:/images/images/profile/circled3.png</pixmap>
+                              <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/circled3.png</pixmap>
                              </property>
                              <property name="scaledContents">
                               <bool>true</bool>
@@ -2927,7 +2927,7 @@ border-bottom-right-radius: 50px;</string>
                            <item>
                             <widget class="QLabel" name="label_74">
                              <property name="text">
-                              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;mortive&lt;/span&gt;&lt;span style=&quot; font-weight:600;&quot;/&gt;&lt;img src=&quot;:/images/images/app/twitter-verified-png-original.png&quot; width=&quot;20&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Mortivaton Profile&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;mortive&lt;/span&gt;&lt;span style=&quot; font-weight:600;&quot;/&gt;&lt;img src=&quot;:assets/images/assets/images/app/twitter-verified-png-original.png&quot; width=&quot;20&quot;/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Mortivaton Profile&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
                              </property>
                             </widget>
                            </item>
@@ -3036,7 +3036,7 @@ background-color: #2C2828</string>
                               <string/>
                              </property>
                              <property name="icon">
-                              <iconset resource="../resources.qrc">
+                              <iconset>
                                <normaloff>:/icons/icons/feather/more-horizontal.svg</normaloff>:/icons/icons/feather/more-horizontal.svg</iconset>
                              </property>
                              <property name="iconSize">
@@ -3147,7 +3147,7 @@ QPushButton#editBtn:pressed, #securityBtn:pressed, #editPostBtn::pressed{
                                 </property>
                                 <property name="icon">
                                  <iconset resource="../resources.qrc">
-                                  <normaloff>:/icons/icons/feather/user.svg</normaloff>:/icons/icons/feather/user.svg</iconset>
+                                  <normaloff>:/assets/icons/assets/icons/feather/user.svg</normaloff>:/assets/icons/assets/icons/feather/user.svg</iconset>
                                 </property>
                                </widget>
                               </item>
@@ -3170,7 +3170,7 @@ QPushButton#editBtn:pressed, #securityBtn:pressed, #editPostBtn::pressed{
                                 </property>
                                 <property name="icon">
                                  <iconset resource="../resources.qrc">
-                                  <normaloff>:/icons/icons/feather/tool.svg</normaloff>:/icons/icons/feather/tool.svg</iconset>
+                                  <normaloff>:/assets/icons/assets/icons/feather/tool.svg</normaloff>:/assets/icons/assets/icons/feather/tool.svg</iconset>
                                 </property>
                                </widget>
                               </item>
@@ -3199,7 +3199,7 @@ QPushButton#editBtn:pressed, #securityBtn:pressed, #editPostBtn::pressed{
                                 </property>
                                 <property name="icon">
                                  <iconset resource="../resources.qrc">
-                                  <normaloff>:/icons/icons/feather/lock.svg</normaloff>:/icons/icons/feather/lock.svg</iconset>
+                                  <normaloff>:/assets/icons/assets/icons/feather/lock.svg</normaloff>:/assets/icons/assets/icons/feather/lock.svg</iconset>
                                 </property>
                                </widget>
                               </item>
@@ -3398,7 +3398,7 @@ QPushButton#editBtn:pressed, #securityBtn:pressed, #editPostBtn::pressed{
                          </font>
                         </property>
                         <attribute name="icon">
-                         <iconset resource="../resources.qrc">
+                         <iconset>
                           <normaloff>:/icons/icons/feather/video.svg</normaloff>:/icons/icons/feather/video.svg</iconset>
                         </attribute>
                         <attribute name="title">
@@ -3437,7 +3437,7 @@ QPushButton#editBtn:pressed, #securityBtn:pressed, #editPostBtn::pressed{
                        </widget>
                        <widget class="QWidget" name="tab_4">
                         <attribute name="icon">
-                         <iconset resource="../resources.qrc">
+                         <iconset>
                           <normaloff>:/icons/icons/feather/heart.svg</normaloff>:/icons/icons/feather/heart.svg</iconset>
                         </attribute>
                         <attribute name="title">
@@ -3688,7 +3688,7 @@ background-color: rgb(14, 15, 18);
                              <string/>
                             </property>
                             <property name="pixmap">
-                             <pixmap resource="../resources.qrc">:/images/images/profile/circled3.png</pixmap>
+                             <pixmap resource="../resources.qrc">:/assets/images/assets/images/profile/circled3.png</pixmap>
                             </property>
                             <property name="scaledContents">
                              <bool>true</bool>
@@ -3728,7 +3728,7 @@ background-color: rgb(14, 15, 18);
                              <string/>
                             </property>
                             <property name="icon">
-                             <iconset resource="../resources.qrc">
+                             <iconset>
                               <normaloff>:/icons/icons/feather/edit-2.svg</normaloff>:/icons/icons/feather/edit-2.svg</iconset>
                             </property>
                            </widget>
@@ -4133,7 +4133,7 @@ p, li { white-space: pre-wrap; }
                           <string> C a n c e l</string>
                          </property>
                          <property name="icon">
-                          <iconset resource="../resources.qrc">
+                          <iconset>
                            <normaloff>:/icons/icons/feather/arrow-left-circle.svg</normaloff>:/icons/icons/feather/arrow-left-circle.svg</iconset>
                          </property>
                          <property name="iconSize">
@@ -4179,7 +4179,7 @@ p, li { white-space: pre-wrap; }
                           <string> S A V E</string>
                          </property>
                          <property name="icon">
-                          <iconset resource="../resources.qrc">
+                          <iconset>
                            <normaloff>:/icons/icons/feather/save.svg</normaloff>:/icons/icons/feather/save.svg</iconset>
                          </property>
                          <property name="iconSize">
@@ -4489,7 +4489,7 @@ p, li { white-space: pre-wrap; }
                          </property>
                          <property name="icon">
                           <iconset resource="../resources.qrc">
-                           <normaloff>:/icons/icons/feather/file-plus.svg</normaloff>:/icons/icons/feather/file-plus.svg</iconset>
+                           <normaloff>:/assets/icons/assets/icons/feather/file-plus.svg</normaloff>:/assets/icons/assets/icons/feather/file-plus.svg</iconset>
                          </property>
                          <property name="iconSize">
                           <size>
@@ -4556,7 +4556,7 @@ p, li { white-space: pre-wrap; }
                          </property>
                          <property name="icon">
                           <iconset resource="../resources.qrc">
-                           <normaloff>:/icons/icons/feather/upload.svg</normaloff>:/icons/icons/feather/upload.svg</iconset>
+                           <normaloff>:/assets/icons/assets/icons/feather/upload.svg</normaloff>:/assets/icons/assets/icons/feather/upload.svg</iconset>
                          </property>
                          <property name="iconSize">
                           <size>
@@ -4638,7 +4638,7 @@ padding-top:2px;
                 </property>
                 <property name="icon">
                  <iconset resource="../resources.qrc">
-                  <normaloff>:/icons/icons/feather/arrow-left.svg</normaloff>:/icons/icons/feather/arrow-left.svg</iconset>
+                  <normaloff>:/assets/icons/assets/icons/feather/arrow-left.svg</normaloff>:/assets/icons/assets/icons/feather/arrow-left.svg</iconset>
                 </property>
                </widget>
               </item>
@@ -4687,7 +4687,7 @@ background-color:  #2C2828;
                 </property>
                 <property name="icon">
                  <iconset resource="../resources.qrc">
-                  <normaloff>:/icons/icons/feather/arrow-right.svg</normaloff>:/icons/icons/feather/arrow-right.svg</iconset>
+                  <normaloff>:/assets/icons/assets/icons/feather/arrow-right.svg</normaloff>:/assets/icons/assets/icons/feather/arrow-right.svg</iconset>
                 </property>
                </widget>
               </item>
@@ -4870,7 +4870,7 @@ padding-top:4px;
                          </property>
                          <property name="icon">
                           <iconset resource="../resources.qrc">
-                           <normaloff>:/icons/icons/feather/arrow-left-circle.svg</normaloff>:/icons/icons/feather/arrow-left-circle.svg</iconset>
+                           <normaloff>:/assets/icons/assets/icons/feather/arrow-left-circle.svg</normaloff>:/assets/icons/assets/icons/feather/arrow-left-circle.svg</iconset>
                          </property>
                         </widget>
                        </item>
@@ -4893,7 +4893,7 @@ padding-top:4px;
                          </property>
                          <property name="icon">
                           <iconset resource="../resources.qrc">
-                           <normaloff>:/icons/icons/feather/save.svg</normaloff>:/icons/icons/feather/save.svg</iconset>
+                           <normaloff>:/assets/icons/assets/icons/feather/save.svg</normaloff>:/assets/icons/assets/icons/feather/save.svg</iconset>
                          </property>
                         </widget>
                        </item>
@@ -4946,7 +4946,7 @@ padding-top:4px;
                          </property>
                          <property name="icon">
                           <iconset resource="../resources.qrc">
-                           <normaloff>:/icons/icons/feather/alert-triangle.svg</normaloff>:/icons/icons/feather/alert-triangle.svg</iconset>
+                           <normaloff>:/assets/icons/assets/icons/feather/alert-triangle.svg</normaloff>:/assets/icons/assets/icons/feather/alert-triangle.svg</iconset>
                          </property>
                          <property name="iconSize">
                           <size>
