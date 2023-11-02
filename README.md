@@ -7,7 +7,7 @@
 
 # IKarma (Desktop App)
 
-- **A modern social media desktop application for sharing instant karma moments.**
+- **Modern social media desktop application for sharing instant karma moments.**
 
 
  - [Backend REST API (IkarmAPI)](https://github.com/m0hss/IkarmaAPI)
