@@ -1,6 +1,6 @@
 ![Capture d’écran 2023-11-01 220619](https://github.com/m0hss/Ikarma/assets/60576085/09b96929-ca62-4ffe-9d7f-e76872aa683c)
 
-[![python3](https://img.shields.io/badge/python-3.10.9-green)](https://www.python.org/downloads/release/python-3109/)  [![PySide2 5.15.2.1](https://img.shields.io/badge/PySide2-5.15.2.1-green)](https://pypi.org/project/PySide2/)  [![PyQt5 5.15.8](https://img.shields.io/badge/PyQt5-5.15.8-green%20)](https://pypi.org/project/PyQt5/5.15.8/)  [![PyQt5Designerv5](https://img.shields.io/badge/PyQt5Designer-5.14.1-green%20%20)](https://pypi.org/project/PyQt5/5.15.8/)  [![QT-PyQt-PySide-Custom-Widgets0.6.8](https://img.shields.io/badge/QT--PyQt--PySide--Custom--Widgets-0.6.8-green%20
+[![Python3](https://img.shields.io/badge/Python-3.10.9-green)](https://www.python.org/downloads/release/python-3109/)  [![PySide2 5.15.2.1](https://img.shields.io/badge/PySide2-5.15.2.1-green)](https://pypi.org/project/PySide2/)  [![PyQt5 5.15.8](https://img.shields.io/badge/PyQt5-5.15.8-green%20)](https://pypi.org/project/PyQt5/5.15.8/)  [![PyQt5Designerv5](https://img.shields.io/badge/PyQt5Designer-5.14.1-green%20%20)](https://pypi.org/project/PyQt5/5.15.8/)  [![QT-PyQt-PySide-Custom-Widgets0.6.8](https://img.shields.io/badge/QT--PyQt--PySide--Custom--Widgets-0.6.8-green%20
 )](https://khamisikibet.github.io/QT-PyQt-PySide-Custom-Widgets/)
 
 
