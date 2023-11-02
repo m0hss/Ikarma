@@ -30,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 
 
   
-- `URL` =  [ikarmAPI (AWS)](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com/users)
+- `URL` =  [ikarmAPI (AWS)](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com)
 
 Keyring service_name and username
 
@@ -70,6 +70,8 @@ $  pyinstaller main.py
 
 
 ## Documentation
+
+[IkarmAPI Doc](http://ec2-16-170-146-217.eu-north-1.compute.amazonaws.com/redoc)
 
 [QT for Python](https://doc.qt.io/qtforpython-6/)
 
