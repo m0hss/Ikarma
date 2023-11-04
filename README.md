@@ -16,7 +16,6 @@
 
 
 ```bash
-$ mkdir ikarma-dev
 $ git clone https://github.com/m0hss/Ikarma.git
 $ python3 -m venv ikarma-dev
 $ cp -a /Ikarma/. /ikarma-dev
