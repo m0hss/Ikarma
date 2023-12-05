@@ -65,7 +65,7 @@ $  pyinstaller main.py
 
 ![Capture d’écran 2023-04-09 050208](https://github.com/m0hss/Ikarma/assets/60576085/44d7e9fc-ed78-4c27-8da3-1d25c07c3b76)![Capture d’écran 2023-04-09 050325](https://github.com/m0hss/Ikarma/assets/60576085/ee4b8504-2ea3-4948-ac1a-3f51432f1f28)![Capture d’écran 2023-04-09 090043](https://github.com/m0hss/Ikarma/assets/60576085/61ec7ac9-376f-4798-98e8-6ecafa9a6d07)![Capture d’écran 2023-04-09 091240](https://github.com/m0hss/Ikarma/assets/60576085/c8f08f34-1b02-4337-ae56-03f1d31c3df8)
 
-![ui](https://github.com/m0hss/Ikarma/assets/60576085/02656b19-72ab-42b3-aaa9-bf4e37b3543d)
+![ui](https://github.com/m0hss/Ikarma/assets/60576085/79cac8a9-2bee-4654-ae34-ae23fdd7626f)
 
 
 ## Documentation
